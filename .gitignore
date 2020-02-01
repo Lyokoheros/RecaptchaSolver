@@ -1,0 +1,7 @@
+#checkpointy jupytera
+.ipynb_checkpoints/
+
+KopiaRobocza.ipynb
+
+#gitignore do nadpisywania
+gitignore.txt
